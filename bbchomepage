@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>BBC Website</title>
+    </head>
+    
+    <body>
+        <header>
+            <img src="bbclogo.png" alt="BBC logo">
+            <nav>
+                <ul>
+                    <li><a href="BBC.html">BBC</a></li>
+                    <li><a href="Signin.html">Sign in</a></li>
+                    <li><a href="Home.html">Home</a></li>
+                    <li><a href="News.html">News</a></li>
+                    <li><a href="Sport.html">Sport</a></li>
+                    <li><a href="Reel.html">Reel</a></li>
+                    <li><a href="Worklife.html">Worklife</a></li>
+                    <li><a href="Travel.html">Travel</a></li>
+                    <li><a href="Future.html">Future</a></li>
+                    <li><a href="Culture">Culture</a></li>
+                </ul>
+                <form>
+                    <label for="searchbar">Search</label>
+                    <input id="searchbar" type="text">
+                </form>
+            </nav>
+        </header>
+
+        <h3>Welcome to BBC.com</h3>
+        <span>
+            <h3>Thursday, 13 August</h3>
+        </span>
+        <section>
+            <section>
+                <img src="peacedeal.jpg" alt="IsraelUAE">
+                <h3>Israel and UAE strike historic peace deal</h3>
+                <p>Israel and the UAE agree to normalise relations, marking the third Israel-Arab leace deal.</p>
+                <span>
+                    <a href="http://www.bbc.com/middleeast">MIDDLE EAST</a>
+                </span>
+            </section>
+            <section>
+                <img src="americansgohome.jpeg" alt="USCANADA">
+                <h4>Americans, go home: Tension at Canada-US border</h4>
+                <span>
+                    <a href="http://www.bbc.com/canada">CANADA</a>
+                </span>
+            </section>
+            <section>
+                <img src="productivitygyms.jpeg" alt="Productivity Gyms">
+                <h4>The online 'productivity gyms'</h4>
+                <span>
+                    <a href="http://www.bbc.com/worklife">WORKLIFE</a>
+                </span>
+            </section>
+            <section>
+                <img src="vaccine.jpeg" alt="Vaccine">
+                <h4>How will the world vaccinate seven billion people?</h4>
+                <span>
+                    <a href="http://www.bbc.com/health">HEALTH</a>
+                </span>
+            </section>
+            <section>
+                <img src="folksinger.jpeg" alt="Folk singer murdered">
+                <h4>The folk singer murdered for his music</h4>
+                <span>
+                    <a href="http://www.bbc.com/culture">CULTURE</a>
+                </span>
+            </section>
+        </section>
+
+        <span>
+            <a href="https://www.bbc.com/news">NEWS</a>
+        </span>
+        <section>
+            <section>
+                <img src="bidenharris.jpeg" alt="Biden-Harris">
+                <h4>Biden and Harris say Trump has left US 'in tatters'</h4>
+                <p>Joe Biden and running mate Kamala Harris call President Donald Trump a "whining" incompetent leader.</p>
+                <span>
+                    <a href="https://www.bbc.com/news/election/us2020">US ELECTION 2020</a>
+                </span>
+            </section>
+            <section>
+                <img src="solidaritychains.jpeg" alt="Women solidarity">
+                <h4>Women form 'solidarity chains' in Belarus protests</h4>
+                <p>Women take to the streets of Minsk dressed in white as they demand an end to police brutality.</p>
+                <span>
+                    <a href="https://www.bbc.com/news/world/europe">EUROPE</a>
+                </span>
+            </section>
+            <section>
+                <img src="trumpshower.jpeg" alt="Trump">
+                <h4>Trump says low-pressure shower heads won't wash</h4>
+                <p>The US calls for rules to be eased after Donald Trump complained of issues washing his hair.</p>
+                <span>
+                    <a href="https://www.bbc.com/news/world/us_and_canada"> US & CANADA</a>
+                </span>
+            </section>
+        </section>
+    </body>
+    
+</html>
